@@ -1,0 +1,16 @@
+{
+    "todo": [
+        {
+            "title": "Faire les courses",
+            "state": false
+        },
+        {
+            "title": "Reviser les cours",
+            "state": false
+        },
+        {
+            "title": "Meditation",
+            "state": true
+        }
+    ]
+}
